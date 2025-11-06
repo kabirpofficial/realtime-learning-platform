@@ -1,6 +1,6 @@
 # realtime-learning-platform
 
-![Platform Banner](https://via.placeholder.com/800x200.png?text=Real-Time+Online+Learning+Platform)
+![Platform Banner](https://github.com/kabirpofficial/realtime-learning-platform/raw/main/sc-1.png)
 
 **Real-Time Online Learning Platform** with HD live video streaming, interactive classrooms, global connectivity, and scalable WebRTC-based architecture. Perfect for universities, online tutors, and corporate training.
 
